@@ -3,8 +3,6 @@
 // @compilation_level SIMPLE_OPTIMIZATIONS
 // ==/ClosureCompiler==
 
-'use strict';
-
 /**
  *  @preserve  JavaScript implementation of
  *  Algorithm for Automatically Fitting Digitized Curves
@@ -554,4 +552,3 @@ class bezier {
 }
 
 // module.exports = fitCurve;
-export { fitCurve };
